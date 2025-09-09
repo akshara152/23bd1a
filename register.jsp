@@ -4,3 +4,5 @@
   <option value="female">Female</option>
   <option value="other">Other</option>
 </select>
+
+<input type="text" name="userName" />
